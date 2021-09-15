@@ -1,0 +1,16 @@
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.exe
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.deps.json
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.runtimeconfig.json
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.runtimeconfig.dev.json
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\ref\UzduotisIsSkaidres1.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.csproj.AssemblyReference.cache
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.AssemblyInfoInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.AssemblyInfo.cs
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.csproj.CoreCompileInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\ref\UzduotisIsSkaidres1.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.genruntimeconfig.cache

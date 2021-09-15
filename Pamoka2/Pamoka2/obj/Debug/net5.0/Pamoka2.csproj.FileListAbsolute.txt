@@ -1,0 +1,16 @@
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\Pamoka2.exe
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\Pamoka2.deps.json
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\Pamoka2.runtimeconfig.json
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\Pamoka2.runtimeconfig.dev.json
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\Pamoka2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\ref\Pamoka2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\bin\Debug\net5.0\Pamoka2.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.csproj.AssemblyReference.cache
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.AssemblyInfoInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.AssemblyInfo.cs
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.csproj.CoreCompileInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\ref\Pamoka2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\Pamoka2\Pamoka2\obj\Debug\net5.0\Pamoka2.genruntimeconfig.cache
