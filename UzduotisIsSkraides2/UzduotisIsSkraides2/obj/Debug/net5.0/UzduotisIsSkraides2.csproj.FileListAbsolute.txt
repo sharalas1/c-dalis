@@ -1,0 +1,16 @@
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.AssemblyInfoInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.AssemblyInfo.cs
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.csproj.CoreCompileInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\UzduotisIsSkraides2.exe
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\UzduotisIsSkraides2.deps.json
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\UzduotisIsSkraides2.runtimeconfig.json
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\UzduotisIsSkraides2.runtimeconfig.dev.json
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\UzduotisIsSkraides2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\ref\UzduotisIsSkraides2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\bin\Debug\net5.0\UzduotisIsSkraides2.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\ref\UzduotisIsSkraides2.dll
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.genruntimeconfig.cache
+C:\Users\sharalas\Desktop\programavimas\C#\UzduotisIsSkraides2\UzduotisIsSkraides2\obj\Debug\net5.0\UzduotisIsSkraides2.csproj.AssemblyReference.cache

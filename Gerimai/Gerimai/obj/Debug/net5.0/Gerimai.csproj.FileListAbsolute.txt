@@ -1,0 +1,16 @@
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.exe
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.deps.json
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.runtimeconfig.json
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.runtimeconfig.dev.json
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\ref\Gerimai.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.csproj.AssemblyReference.cache
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.AssemblyInfoInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.AssemblyInfo.cs
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.csproj.CoreCompileInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\ref\Gerimai.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.genruntimeconfig.cache
