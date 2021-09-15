@@ -1,0 +1,5 @@
+C:\Users\sharalas\Desktop\programavimas\C#\uzduotis1.2\uzduotis1.2\obj\Debug\net5.0\uzduotis1.2.csproj.AssemblyReference.cache
+C:\Users\sharalas\Desktop\programavimas\C#\uzduotis1.2\uzduotis1.2\obj\Debug\net5.0\uzduotis1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharalas\Desktop\programavimas\C#\uzduotis1.2\uzduotis1.2\obj\Debug\net5.0\uzduotis1.2.AssemblyInfoInputs.cache
+C:\Users\sharalas\Desktop\programavimas\C#\uzduotis1.2\uzduotis1.2\obj\Debug\net5.0\uzduotis1.2.AssemblyInfo.cs
+C:\Users\sharalas\Desktop\programavimas\C#\uzduotis1.2\uzduotis1.2\obj\Debug\net5.0\uzduotis1.2.csproj.CoreCompileInputs.cache
