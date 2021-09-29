@@ -1,0 +1,12 @@
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Projektas.exe
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Projektas.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Projektas.deps.json
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Projektas.runtimeconfig.json
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Projektas.pdb
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sharalas\Desktop\programavimas\C#\Projektas\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
